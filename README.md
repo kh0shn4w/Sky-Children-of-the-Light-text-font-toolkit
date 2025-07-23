@@ -1,10 +1,13 @@
-# Sky Children of the Light Text Tool
+# Sky Children of the Light Text Localization Tool
 
 A one-click translation mod tool for *Sky: Children of the Light*, built to help fans translate the game's text by automatically exporting and importing modded text files.
 
 ## Screenshot
 
 ![Screenshot of Sky Children of the Light Text Tool](assets/screenshot.png)
+
+## Tutorial Video
+[![Watch the demo](https://img.youtube.com/vi/_UU3QkOO_C8/0.jpg)](https://youtu.be/_UU3QkOO_C8)
 
 ## Features
 
